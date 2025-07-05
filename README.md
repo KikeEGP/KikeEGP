@@ -4,6 +4,7 @@
 ### Stalker counter
 ![Profile views](https://profile-counter.glitch.me/KikeEGP/count.svg)
 
+https://github-readme-stats.vercel.app/api?username=KikeEGP
 
 <!--
 **KikeEGP/KikeEGP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
